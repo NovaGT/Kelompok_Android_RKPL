@@ -1,4 +1,4 @@
 File ini berisi dokumentasi kelompok
 
-
-<img src="assetreadme/1.Hasil create table.png"
+Hasil Create Table
+* <img src="assetreadme/1.Hasil create table.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
