@@ -1,0 +1,7 @@
+from(bucket: "transport_db")
+  |> range(start: 2026-11-01T00:00:00Z, stop: 2027-01-01T00:00:00Z)
+  |> filter(fn: (r) => r._measurement == "trips" and r.route_id == "12")
+  |> group()
+  |> keep(columns: ["_time", "trip_id", "route_name"])
+  |> rename(columns: {_time: "started_at"})
+  |> sort(columns: ["started_at"])

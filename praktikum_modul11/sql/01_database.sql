@@ -1,0 +1,1 @@
+CREATE DATABASE katalog_produk;
