@@ -5,7 +5,7 @@ Hasil migrasi dan eksekusi query
 
 * <img src="assetreadme/Query dan Hasil2.png" alt="Description" style="object-fit:cover">
 
-* <img src="assetreadme/Query dan Hasil3.png" alt="Description" style="object-fit:cover"
+* <img src="assetreadme/Query dan Hasil3.png" alt="Description" style="object-fit:cover">
 
 Execution plan
 * <img src="assetreadme/execution_plan.png" alt="Description" style="object-fit:cover">
